@@ -1,1 +1,0 @@
-{"Name":"Bibliografie","List":[{"id":"article1"},{"id":"book1"}]}
